@@ -28,11 +28,11 @@ function onClearAllClick(){
             <h1 onClick={()=>history.push('/')}>My Notes</h1>            
             <button className="clearAllButton" onClick={onClearAllClick}>Clear All Notes</button>
             </div>
-            <img src={MyNote1} className="myNotes" alt="My Notes"/>
-            <img src={MyNote1} className="myNotes" alt="My Notes"/>
-            <img src={MyNote1} className="myNotes" alt="My Notes"/>
-            <img src={MyNote1} className="myNotes" alt="My Notes"/>
-            <img src={MyNote1} className="myNotes" alt="My Notes"/>
+//             <img src={MyNote1} className="myNotes" alt="My Notes"/>
+//             <img src={MyNote1} className="myNotes" alt="My Notes"/>
+//             <img src={MyNote1} className="myNotes" alt="My Notes"/>
+//             <img src={MyNote1} className="myNotes" alt="My Notes"/>
+//             <img src={MyNote1} className="myNotes" alt="My Notes"/>
         </header>
     );
 }
